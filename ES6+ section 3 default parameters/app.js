@@ -75,10 +75,4 @@ const defaultExample3 = (a, b=5, c) => a + b + c
 console.log(defaultExample3(1, 2, 3)); //6 
 console.log(defaultExample3(1, , 3));  // we cannot skip middle variable like this. default parameter can happen only from the right most side. So correct way is that we need to assign a default value to c as well. and we need to call as console.log(defaultExample3(1));
 
-//
-*/
-
-/*
-
-
 */
