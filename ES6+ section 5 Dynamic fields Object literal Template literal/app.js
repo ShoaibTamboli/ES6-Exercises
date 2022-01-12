@@ -51,7 +51,7 @@ let evenodd =(num)=> {
 }
 evenodd(2)
 
-short function: let a = num=> (num%2==0)? 'even' : 'odd';
+short function: let a = num=> (num%2==0? 'even' : 'odd');
 
 */
 
